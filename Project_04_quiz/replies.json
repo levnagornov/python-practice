@@ -1,0 +1,16 @@
+{
+  "right_answer_replies": [
+        "✅ Yes, that's right!",
+        "✅ Correct! Well Done!",
+        "✅ Yep, good one!",
+        "✅ Good job!",
+        "✅ Wow, you're smart!"
+    ],
+  "wrong_answer_replies": [
+        "❌ Oops, you were wrong.",
+        "❌ Unfortunately, no.",
+        "❌ Not really...",
+        "❌ Oh no, this is an incorrect answer.",
+        "❌ Sorry, better luck next time."
+    ]
+}

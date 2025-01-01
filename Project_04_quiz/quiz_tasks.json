@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Lisbon"
+    ],
+    "correct_answer": "Paris"
+  },
+  {
+    "question": "What is 5 + 3?",
+    "options": [
+      "5",
+      "8",
+      "9",
+      "7"
+    ],
+    "correct_answer": "8"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct_answer": "Mars"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Leo Tolstoy",
+      "Mark Twain"
+    ],
+    "correct_answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "O",
+      "H2",
+      "H2O",
+      "HO2"
+    ],
+    "correct_answer": "H2O"
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "correct_answer": "Africa"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct_answer": "Blue Whale"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "Japan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "correct_answer": "Japan"
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "options": [
+      "0",
+      "100",
+      "-1",
+      "10"
+    ],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "correct_answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Vienna",
+      "Berlin",
+      "Munich",
+      "Frankfurt"
+    ],
+    "correct_answer": "Berlin"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "correct_answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct_answer": "Pacific Ocean"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answer": "7"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "correct_answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Organ"
+    ],
+    "correct_answer": "Cell"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "correct_answer": "Mitochondria"
+  },
+  {
+    "question": "Which language has the most native speakers?",
+    "options": [
+      "English",
+      "Mandarin",
+      "Spanish",
+      "Hindi"
+    ],
+    "correct_answer": "Mandarin"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correct_answer": "Vatican City"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara",
+      "Antarctic Desert",
+      "Arctic Desert",
+      "Gobi Desert"
+    ],
+    "correct_answer": "Antarctic Desert"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correct_answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Tomato",
+      "Avocado",
+      "Onion",
+      "Pepper"
+    ],
+    "correct_answer": "Avocado"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury",
+      "Iron",
+      "Gold",
+      "Silver"
+    ],
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Rome",
+      "Milan",
+      "Venice",
+      "Naples"
+    ],
+    "correct_answer": "Rome"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams",
+      "Benjamin Franklin"
+    ],
+    "correct_answer": "George Washington"
+  },
+  {
+    "question": "Which organ is responsible for pumping blood?",
+    "options": [
+      "Lungs",
+      "Kidney",
+      "Heart",
+      "Liver"
+    ],
+    "correct_answer": "Heart"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "Gold",
+      "Oxygen",
+      "Osmium",
+      "Hydrogen"
+    ],
+    "correct_answer": "Oxygen"
+  },
+  {
+    "question": "What is the largest planet in our Solar System?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "J.K. Rowling",
+      "Ernest Hemingway"
+    ],
+    "correct_answer": "George Orwell"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "50",
+      "90",
+      "150"
+    ],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Baht"
+    ],
+    "correct_answer": "Yen"
+  },
+  {
+    "question": "Which bird is known for its colorful plumage?",
+    "options": [
+      "Peacock",
+      "Crow",
+      "Sparrow",
+      "Penguin"
+    ],
+    "correct_answer": "Peacock"
+  },
+  {
+    "question": "What is the name of the fairy in Peter Pan?",
+    "options": [
+      "Tinker Bell",
+      "Fairy Godmother",
+      "Pixie Dust",
+      "Wendy"
+    ],
+    "correct_answer": "Tinker Bell"
+  },
+  {
+    "question": "Which organ is responsible for filtering blood?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Lungs"
+    ],
+    "correct_answer": "Kidney"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "1,000 km/s",
+      "30,000 km/s"
+    ],
+    "correct_answer": "300,000 km/s"
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "South America"
+    ],
+    "correct_answer": "Africa"
+  },
+  {
+    "question": "What is the process plants use to make food?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Photosynthesis"
+  },
+  {
+    "question": "Which planet has rings?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "correct_answer": "Saturn"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "Which vitamin is known as the sunshine vitamin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_answer": "Vitamin D"
+  },
+  {
+    "question": "What is the square root of 16?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correct_answer": "Canberra"
+  },
+  {
+    "question": "What is the name of the largest bone in the human body?",
+    "options": [
+      "Skull",
+      "Femur",
+      "Spine",
+      "Rib"
+    ],
+    "correct_answer": "Femur"
+  },
+  {
+    "question": "What is the name of the closest star to Earth?",
+    "options": [
+      "Alpha Centauri",
+      "Sirius",
+      "Sun",
+      "Betelgeuse"
+    ],
+    "correct_answer": "Sun"
+  },
+  {
+    "question": "What is the name of the river that flows through Egypt?",
+    "options": [
+      "Amazon",
+      "Nile",
+      "Ganges",
+      "Danube"
+    ],
+    "correct_answer": "Nile"
+  },
+  {
+    "question": "What is the name of the world's longest mountain range?",
+    "options": [
+      "Himalayas",
+      "Andes",
+      "Rockies",
+      "Alps"
+    ],
+    "correct_answer": "Andes"
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "options": [
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "J.K. Rowling",
+      "Stephen King"
+    ],
+    "correct_answer": "J.K. Rowling"
+  }
+]
